@@ -9,7 +9,8 @@ The dashboard enables users to monitor key performance indicators (KPIs), explor
 📊 Dashboard Preview
 
 
-<img width="1042" height="610" alt="Screenshot 2026-11-02 130935" src="https://github.com/user-attachments/assets/8807a997-1fb1-457f-807f-450c0318b27f" />
+<img width="1041" height="607" alt="Screenshot 2026-11-02 145700" src="https://github.com/user-attachments/assets/9d02a23d-2c93-490a-828f-18fc2e76dfcd" />
+
 
 
 🎯 Project Overview
